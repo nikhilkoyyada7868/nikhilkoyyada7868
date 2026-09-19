@@ -1,14 +1,55 @@
-# 💫 About Me:
-🚀 I’m currently working on<br>Product-led AI tools, automation workflows, and MVPs that solve real user problems — especially in fintech, support systems, and behavior-driven products.<br><br>🤝 I’m looking to collaborate on<br>0→1 product ideas, AI-enabled platforms, and user-centric tools where I can contribute across discovery, strategy, and execution.<br><br>🤔 I’m looking for help with<br>Scaling MVPs, improving product analytics frameworks, and refining GTM strategies for early-stage products.<br><br>🌱 I’m currently learning<br>Product strategy, experimentation frameworks, AI-assisted product design, and data-driven decision making.<br><br>💬 Ask me about<br>Product thinking, translating tech into user value, building from scratch, and running structured experiments.<br><br>⚡ Fun fact<br>Ex-software engineer turned PM aspirant — I enjoy bridging business, tech, and user psychology to build meaningful products.<br>
+<div align="center">
 
+# Hi, I'm Nikhil Koyyada 👋
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Product manager with an engineer's instinct for making ideas tangible.
 
-### ✍️ Quote For The Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge)](https://product-manager-portfolio-lovat.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhilkoyyada)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.kinvests@gmail.com)
 
----
-[![](https://visitcount.itsvg.in/api?id=nikhilkoyyada7868&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I work at the intersection of **customer insight, product strategy, data, and technical execution**. My background spans software engineering, operations, and an MBA journey at IIM Bangalore. I enjoy turning ambiguous problems into testable product bets, useful prototypes, and measurable plans.
+
+## What I build
+
+- AI-enabled workflows that reduce repetitive effort
+- Fintech concepts that make complex decisions easier to understand
+- Customer and operations tools grounded in real user journeys
+- Fast MVPs used to test value before scaling the solution
+
+## Selected projects
+
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [ReviewQR](https://github.com/nikhilkoyyada7868/ReviewQR) | Honest, low-friction review composition for restaurants | Next.js, Cloudflare D1, Drizzle |
+| [VyapaarMitra V2](https://github.com/nikhilkoyyada7868/VM2) | Alternative-data credit experience for Indian MSMEs | React, TypeScript, Radix UI |
+| [MBA Surveys](https://github.com/nikhilkoyyada7868/mbasurveys_lovable) | Targeted research marketplace for survey creators and respondents | React, Supabase, Tailwind CSS |
+| [AI Customer Support](https://github.com/nikhilkoyyada7868/AI_Customer_Support) | Real-time voice support with guided routing | Gemini Live API, React, Web Audio |
+| [WhatsApp Mood Tracker](https://github.com/nikhilkoyyada7868/whatsapp-bot) | Daily emotional reflection inside WhatsApp | Node.js, Twilio, SQLite |
+| [Flappy Bird — Luxe Edition](https://github.com/nikhilkoyyada7868/Pro-Flappy-Bird-Game) | A polished browser game with progression and personalization | Canvas, JavaScript, CSS |
+
+## How I think about products
+
+```text
+Understand the user → frame the problem → define the smallest useful bet
+        → prototype quickly → measure behavior → learn and iterate
+```
+
+I care about the details behind a convincing demo: honest scope, clear trade-offs, meaningful edge cases, and documentation that lets another person understand the work without a guided tour.
+
+## Toolkit
+
+**Product:** discovery, problem framing, prioritization, experimentation, metrics, roadmapping<br>
+**Technical:** TypeScript, JavaScript, React, Python, Java, SQL, APIs, Git<br>
+**Platforms & tools:** AWS, Docker, Figma, Postman, MySQL, Kafka
+
+## Currently interested in
+
+- Product roles where technical depth and customer understanding both matter
+- AI-assisted experiences with measurable user value
+- Fintech, support systems, operational tooling, and behavior-driven products
+- Collaborating on 0→1 ideas and early product validation
+
+If one of these problem spaces overlaps with yours, [let's talk](mailto:nikhil.kinvests@gmail.com).
