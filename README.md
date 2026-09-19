@@ -6,7 +6,7 @@
 
 I combine product thinking, software-engineering experience, and hands-on prototyping to turn ambiguous customer problems into useful, measurable products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge)](https://product-manager-portfolio-lovat.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1b4d3e?style=for-the-badge)](https://product-manager-portfolio-lovat.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikhilkoyyada)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhil.kinvests@gmail.com)
 
