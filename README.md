@@ -10,12 +10,11 @@
 
 </div>
 
-I work at the intersection of **customer insight, product strategy, data, and technical execution**. My background spans software engineering, operations, and an MBA journey at IIM Bangalore. I enjoy turning ambiguous problems into testable product bets, useful prototypes, and measurable plans.
+I work at the intersection of **customer insight, product strategy, data analytics, and technical execution**. My background spans software engineering, data engineering, and an MBA journey at IIM Bangalore. I enjoy turning ambiguous problems into testable product bets, useful prototypes, and measurable plans.
 
-## What I build
+## What I have built
 
 - AI-enabled workflows that reduce repetitive effort
-- Fintech concepts that make complex decisions easier to understand
 - Customer and operations tools grounded in real user journeys
 - Fast MVPs used to test value before scaling the solution
 
